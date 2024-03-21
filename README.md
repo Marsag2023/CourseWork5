@@ -10,15 +10,19 @@
 1. Клонируйте репозиторий на свой локальный компьютер:
    
 git-клон https://github.com/Marsag2023/CourseWork5.git
+
 3. Перейдите в каталог проекта:
 
 cd CouseWork5
+
 4. Используйте Poetry для установки зависимостей проекта:
 
 poetry install
+
 5. Активируйте виртуальную среду, созданную Poetry:
 
 poetry shell
+
 6. Создайте файл data.ini в каталоге проекта CourseWork5/src:
 
 [postgres]
